@@ -1,0 +1,19 @@
+{
+  "name": "@super-toolkit/nomoi",
+  "version": "0.0.2-0",
+  "description": "Normal technical rules and forms people take for granted in their daily activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-toolkit/nomoi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/super-toolkit/nomoi/issues"
+  },
+  "homepage": "https://github.com/super-toolkit/nomoi#readme"
+}
